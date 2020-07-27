@@ -9,4 +9,5 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 ## Practice Skills
 Creative feature engineering 
+
 Advanced regression techniques like random forest and gradient boosting
